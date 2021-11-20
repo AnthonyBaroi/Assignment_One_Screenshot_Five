@@ -92,7 +92,7 @@
             android:textSize="20sp"
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="@+id/textView3"
-            app:layout_constraintHorizontal_bias="0.452"
+            app:layout_constraintHorizontal_bias="0.457"
             app:layout_constraintStart_toStartOf="@+id/textView3"
             app:layout_constraintTop_toTopOf="@+id/textView3" />
 
